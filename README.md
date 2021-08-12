@@ -1,2 +1,2 @@
 # Segy_study
-2D and 3D segy Data.
+Reading 2D and 3D Segy Data.
